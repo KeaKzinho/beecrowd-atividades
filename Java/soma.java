@@ -11,5 +11,7 @@ public class soma {
         
         System.out.printf("X = %d%n", A + B);
 
+        sc.close();
+
     }
 }
